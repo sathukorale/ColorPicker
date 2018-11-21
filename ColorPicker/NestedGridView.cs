@@ -16,7 +16,7 @@ using Android.Widget;
 
 namespace Net.ArcanaStudio.ColorPicker
 {
-    internal class NestedGridView : GridView
+    public class NestedGridView : GridView
     {
         #region Constructors
 
